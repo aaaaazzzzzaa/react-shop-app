@@ -29,7 +29,7 @@
   npm run start
   ```
 
-6. 실행중인 localhost:3000 으로 이동 후 실행 중인 페이지 확인
+6. localhost:3000 으로 이동 후 동작 확인
 
 ## 동작 화면
 <img src="img/react-shop-app.gif" width="500">
